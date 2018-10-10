@@ -1,3 +1,9 @@
+lliurex-sudoers (0.16) bionic; urgency=medium
+
+  * Initial release for bionic
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Wed, 10 Oct 2018 12:13:16 +0200
+
 lliurex-sudoers (0.6) xenial; urgency=medium
 
   * First release to xenial
