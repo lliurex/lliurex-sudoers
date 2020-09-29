@@ -1,0 +1,29 @@
+lliurex-sudoers (0.16) bionic; urgency=medium
+
+  * Initial release for bionic
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Wed, 10 Oct 2018 12:13:16 +0200
+
+lliurex-sudoers (0.6) xenial; urgency=medium
+
+  * First release to xenial
+
+ -- Juan Ramon Pelegrina <juapesai@hotmail.com>  Fri, 12 Feb 2016 12:05:31 +0100
+
+lliurex-sudoers (0.3) trusty; urgency=medium
+
+  * First trusty release
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Thu, 15 Jan 2015 13:32:49 +0100
+
+lliurex-sudoers (0.2) precise; urgency=low
+
+  * UNRELEASED
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 07 Oct 2013 13:49:22 +0200
+
+lliurex-sudoers (0.1) precise; urgency=low
+
+  * First release
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Wed, 02 Oct 2013 10:00:31 +0200
